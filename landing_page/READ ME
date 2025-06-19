@@ -1,0 +1,31 @@
+🌐 Landing Page
+
+This is a basic landing page project built using **HTML** and **CSS**.  
+It is fully responsive and designed as part of the ChaiCode Web Development Course on Udemy.
+
+## 📂 Project Structure
+
+landing-page/
+├── index.html  
+└── style.css  
+
+## 🚀 How to Run
+
+1. Clone the repository (if not already):
+
+   git clone https://github.com/rachanadutta/Mini-Projects.git
+
+2. Open the `landing-page` folder.
+
+3. Double-click `index.html` to open it in your browser.
+
+## 💡 Features
+
+- Clean and responsive layout  
+- Built with pure HTML and CSS (no frameworks or libraries)  
+- Easy to customize and expand  
+
+## 🛠️ Tech Used
+
+- HTML5  
+- CSS3  
