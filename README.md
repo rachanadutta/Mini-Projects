@@ -8,8 +8,9 @@ Each project is self-contained in its own folder and may use a combination of **
 | Project        | Tech Used           | Description                        |
 |----------------|---------------------|------------------------------------|
 | login-page     | HTML, Tailwind CSS  | A simple and responsive login form |
-| dashboard      | To be added         | (Add description...)               |
-| navbar         | To be added         | (Add description...)               |
+| landing-page   | HTML, CSS           | (A simple and responsive landing page)|
+| login_page     | HTML, CSS           | (Basic login page just using css)|
+| cssAssignment  | HTML, CSS, Bootstrap| (Beautiful carousal and cards using bootstrap)|
 
 ✅ More projects will be added as the course progresses.
 
